@@ -1,8 +1,8 @@
-# CS61A-learning
+# CS61a_textbook
 
-参考教材：中译本（https://github.com/wizardforcel/sicp-py-zh）
+原版教材：https://www.composingprograms.com/
 
-参考视频：UCB CS 61A: Computer Programs, Fall 2020（https://www.bilibili.com/video/BV1s3411G7yM?p=1&vd_source=a3ee9370052a51205731bb33f9be0a7b）
+参考视频：UCB CS61a — Computer Programs
 
 第一章 使用函数构建抽象
 
